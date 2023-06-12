@@ -16,8 +16,5 @@ Let's work together
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="60" />
   
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="60" />
-          
-          
-          
-          
+         
 </div>
